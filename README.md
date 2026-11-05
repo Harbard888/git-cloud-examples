@@ -1,4 +1,4 @@
-# git-cloud-examples-nennen
+# git-cloud-examples
 
 Small, original example files for practicing the basics of Git. They are intended
 as hands-on exercises alongside *Git und Github Crashkurs*; they do not reproduce
